@@ -1,0 +1,2 @@
+#!/bin/sh
+(who; df -T; tail -29 /var/log/messages)
